@@ -240,6 +240,7 @@
     "languages": "语言",
     "about": "关于",
     "code": "代码",
+    "Fetch upstream": "获取上游资源",
     "dependencies": "依赖",
     "explore repositories": "探索仓库",
     "create repository": "新建仓库",

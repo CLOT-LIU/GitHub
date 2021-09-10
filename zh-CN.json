@@ -305,6 +305,7 @@
     "open a pull request to contribute your changes upstream.": "打开拉取请求以向上游贡献您的更改。",
     "open pull request": "打开拉取请求",
     "fetch upstream": "获取上游",
+    "This branch is not behind the upstream": "这个分支并不落后于上游的",
     "open a pull request to fetch upstream and review changes or resolve conflicts.": "打开拉取请求去获取上游并查看更改或解决冲突。",
     "choose a head ref": "选择一个头引用",
     "find a branch": "查找分支",

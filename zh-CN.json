@@ -305,7 +305,6 @@
     "open a pull request to contribute your changes upstream.": "打开拉取请求以向上游贡献您的更改。",
     "open pull request": "打开拉取请求",
     "fetch upstream": "获取上游",
-    "This branch is not behind the upstream": "这个分支并不落后于上游的",
     "open a pull request to fetch upstream and review changes or resolve conflicts.": "打开拉取请求去获取上游并查看更改或解决冲突。",
     "choose a head ref": "选择一个头引用",
     "find a branch": "查找分支",
@@ -315,6 +314,7 @@
     "no commit comments for this range": "在此范围内没有提交评论",
     "no new commits yet. enjoy your day!": "尚无新提交。祝您愉快！",
     "no new commits to fetch. enjoy your day!": "尚无新提交。祝您愉快！",
+    "This branch is not behind the upstream": "这个分支并不落后于上游的",
     "fetch and merge": "获取并合并",
 
 

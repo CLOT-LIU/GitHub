@@ -316,7 +316,7 @@
     "This branch is not behind the upstream": "这个分支并不落后于上游的",
     "no new commits yet. enjoy your day!": "尚无新提交。祝您愉快！",
     "no new commits to fetch. enjoy your day!": "尚无新提交。祝您愉快！"
-    "fetch and merge": "获取并合并",
+    "fetch and merge": "获取合并",
 
 
     "__comments-pull-request": "Repository pull request",

@@ -1,4 +1,4 @@
-{
+c{
   "__comments-css": [
     "css selector",
     "css选择器",
@@ -239,7 +239,6 @@
     "new": "新建",
     "languages": "语言",
     "about": "关于",
-    "code": "代码",
     "dependencies": "依赖",
     "explore repositories": "探索仓库",
     "create repository": "新建仓库",
